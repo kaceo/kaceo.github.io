@@ -1,8 +1,13 @@
 # Site settings
-title: Tango Singapore Project
+title: Tango Mints 
 email:
+
 description: > # this means to ignore newlines until "baseurl:"
+  Tango Mint is a fund-raising project for Tangueros Foundation
+  project grants
+
 baseurl: "" # the subpath of your site, e.g. /blog/
+
 url: "" # the base hostname & protocol for your site
 
 twitter_username:
